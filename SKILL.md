@@ -1,17 +1,18 @@
 ---
 name: logical-nonsense-framework
-description: "Apply rigorous logic to absurd premises, creating comedy through contrast between flawless methodology and impossible foundations"
+description: Apply rigorous logic to absurd premises, creating comedy through contrast between flawless methodology and impossible foundations
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  version: 1.0.4403
+  author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - absurdist-comedy
-  - logic
-  - surrealism
-  - deadpan
-  - goon-show
-  - milligan
+- absurdist-comedy
+- logic
+- surrealism
+- deadpan
+- goon-show
+- milligan
 ---
 
 # Logical Nonsense Framework
